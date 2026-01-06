@@ -96,6 +96,15 @@ class Developer:
 
 <br>
 
+<!-- 3D CONTRIBUTION GRAPH -->
+<h2 align="center">🧊 3D Contribution Graph</h2>
+
+<p align="center">
+  <img width="90%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+</p>
+
+<br>
+
 <!-- TROPHY SECTION -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vclubtech&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
