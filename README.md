@@ -1,75 +1,125 @@
-<!--
-GitHub Profile README
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00ff87,100:60efff&text=VClub%20Tech&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=twinkling" />
 
-Quick setup:
-1) Replace YOUR_NAME, YOUR_USERNAME, and links below.
-2) (Optional) Enable/disable sections by deleting what you don’t want.
--->
+<p align="center">
+  <a href="https://github.com/vclubtech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;%F0%9F%92%BB+Full+Stack+Developer+%7C+Bot+Creator" />
+  </a>
+</p>
 
-## YOUR_NAME
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vclubtech&style=flat-square&color=00ff87" />
+  <img src="https://img.shields.io/github/followers/vclubtech?style=flat-square&color=00ff87" />
+</p>
 
-**Role / tagline** — one sentence about what you build and why.
+<br>
 
-- **Current focus**: <what you’re working on now>
-- **Strengths**: <e.g., backend systems, data, product engineering, UI>
-- **Open to**: <collabs / freelance / full-time / OSS>
-- **Location**: <city, country> (optional)
+<!-- ABOUT SECTION -->
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
 
-### About
+### 👨‍💻 About Me
 
-I build <what> for <who>, with a focus on <impact>. Recently I’ve been working on <1–2 topics>.
+```python
+class Developer:
+    name = "VClub Tech"
+    role = "Full Stack Dev"
+    location = "India 🇮🇳"
+    
+    languages = [
+        "Python", "JavaScript", 
+        "Bash", "C"
+    ]
+    
+    speciality = [
+        "Telegram Bots",
+        "Web Scraping", 
+        "API Development"
+    ]
+```
 
-### Tech stack
+</td>
+<td width="45%" valign="top">
 
-<!-- Prefer a short list of what you actually use. -->
-- **Languages**: <e.g., TypeScript, Python, Go>
-- **Frameworks**: <e.g., React, Next.js, FastAPI>
-- **Data / Infra**: <e.g., Postgres, Redis, Docker, AWS>
-- **Tools**: <e.g., Git, Linux, CI/CD>
+### 🛠️ Languages
 
-<!-- Optional: badges (edit/remove as you like) -->
-<!--
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0B0B0B)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
--->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 
-### Highlights
+### ⚙️ Tools
 
-<!-- Pin these repos on your GitHub profile for best effect. -->
-- **Project name**: one-line description — [Repo](https://github.com/YOUR_USERNAME/REPO) | [Live](https://example.com)
-- **Project name**: one-line description — [Repo](https://github.com/YOUR_USERNAME/REPO)
-- **Project name**: one-line description — [Case study](https://example.com) (optional)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
 
-### Now
+</td>
+</tr>
+</table>
 
-- Building: <thing>
-- Learning: <thing>
-- Exploring: <thing>
+<br>
 
-### GitHub stats (optional)
+<!-- PROJECTS SECTION -->
+<h2 align="center">🚀 My Projects</h2>
 
-<!--
-Tip: Replace YOUR_USERNAME below. If you don’t want stats, delete this section.
--->
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+| Project | Description | Tech |
+|:-------:|:------------|:----:|
+| [**VClub**](https://github.com/vclubtech/VClub) | Premium Telegram Bot with Payment Gates | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
+| [**DAXX Music**](https://github.com/vclubtech/DAXXMUSIC) | Music Streaming Bot for Telegram | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
+| [**DAXX Userbot**](https://github.com/vclubtech/DAXXUSERBOT) | Powerful Telegram Userbot | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
+| [**DAXX ChatBot**](https://github.com/vclubtech/DAXXCHATBOT) | AI-Powered Chat Bot | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
+| [**Ban All Bot**](https://github.com/vclubtech/DAXXBANALL) | Group Management Bot | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
 
-<!-- Optional streaks -->
-<!--
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
--->
+</div>
 
-### Contact
+<br>
 
-- **Website**: <https://example.com>
-- **Email**: <you@example.com>
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/YOUR_HANDLE/)
-- **X**: [@YOUR_HANDLE](https://x.com/YOUR_HANDLE)
+<!-- STATS SECTION -->
+<h2 align="center">📊 Stats</h2>
 
-<!-- Optional: simple visitor counter (some people dislike these) -->
-<!--
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0b0b0b)
--->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vclubtech&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00ff87&text_color=ffffff" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vclubtech&theme=vue-dark&hide_border=true&background=0d1117&ring=00ff87&fire=00ff87&currStreakLabel=00ff87" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vclubtech&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&langs_count=6" />
+</p>
+
+<br>
+
+<!-- TROPHY SECTION -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vclubtech&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</p>
+
+<br>
+
+<!-- GRAPH SECTION -->
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vclubtech&bg_color=0d1117&color=00ff87&line=00ff87&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<br>
+
+<!-- CONNECT SECTION -->
+<h2 align="center">🔗 Connect</h2>
+
+<p align="center">
+  <a href="https://t.me/cyberdaxx"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff87" /></a>
+  <a href="https://youtube.com/@cyberdaxx"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff87" /></a>
+  <a href="https://instagram.com/vclubtech"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff87" /></a>
+  <a href="mailto:thebotolbaba@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff87" /></a>
+</p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff87,100:60efff&section=footer" />
