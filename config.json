@@ -1,0 +1,13 @@
+{
+  "wake_words": ["assistant", "jarvis"],
+  "require_wake_word": true,
+  "dangerous_action_confirm_seconds": 12,
+  "apps": {
+    "browser": ["xdg-open", "https://www.google.com"],
+    "firefox": ["firefox"],
+    "chrome": ["google-chrome"],
+    "terminal": ["x-terminal-emulator"],
+    "files": ["xdg-open", "~"],
+    "settings": ["gnome-control-center"]
+  }
+}
