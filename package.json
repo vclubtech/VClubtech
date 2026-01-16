@@ -1,0 +1,19 @@
+{
+  "name": "vclub-music-streaming",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm -w backend run dev\" \"npm -w frontend run dev\"",
+    "build": "npm -w backend run build && npm -w frontend run build",
+    "start": "concurrently -n backend,frontend -c blue,green \"npm -w backend run start\" \"npm -w frontend run start\"",
+    "lint": "npm -w frontend run lint",
+    "typecheck": "npm -w backend run typecheck && npm -w frontend run typecheck"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
+
